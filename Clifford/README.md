@@ -1,4 +1,4 @@
-###Clifford / geometric algebra helper.
+## Clifford / geometric algebra helper.
 
 Console program for generating multiplication tables for [geometric algebras](http://en.wikipedia.org/wiki/Geometric_algebra).
 
